@@ -36,3 +36,45 @@ The project uses Medallion Architecture with **Bronze**, **Silver**, and **Gold*
 ---
 
 ### 📂 Repository Structure
+data-warehouse-project/
+│
+├── datasets/ # Raw datasets (ERP & CRM CSV files)
+├── docs/ # Documentation, Draw.io diagrams, and data catalog
+├── scripts/ # SQL ETL scripts for Bronze, Silver, Gold layers
+├── tests/ # Test scripts & validation
+├── README.md # This README file
+├── LICENSE # MIT License
+├── .gitignore # Ignore files
+└── requirements.txt # Dependencies
+
+
+---
+
+### ☕ Connect With Me
+
+<div align="center">
+  <a href="mailto:ayandadlulane1@students.wits.ac.za">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayanda-dlulane-27345b359" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.kaggle.com" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/ayandadlulane" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
+</div>
+
+---
+
+### 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share with attribution.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayandadlulane/ayandadlulane/output/snake.svg" alt="Snake animation" />
+</div>
