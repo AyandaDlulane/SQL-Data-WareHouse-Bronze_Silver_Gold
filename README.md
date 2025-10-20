@@ -1,24 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<h1 align="center">Hey there 👋, I'm Ayanda Dlulane</h1>
-
-<h3 align="center">🎓 Data Engineering & Machine Learning Student | Wits University</h3>
-
----
-
-### 👨‍💻 About Me
-
-- 📍 Based in **Johannesburg**, studying **Electrical & Information Engineering** at **Wits University**  
-- 💡 Interested in **data pipelines**, **ETL**, and **machine learning** applications in finance and analytics  
-- 🧠 Currently learning **Python (Pandas, Numpy, Scikit-learn)** and **SQL** for data transformation  
-- 🛠 Working on projects like a **Phishing Detection Model** and a **Data Warehouse System**  
-- 📚 Exploring how data engineering supports **AI and quantitative analysis**  
-- ⚡ Fun fact: I believe clean data is just as important as clever algorithms  
-
----
-
 ### 🏗️ Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
